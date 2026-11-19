@@ -1,0 +1,16 @@
+# Nextflow working files
+work/
+.nextflow/
+.nextflow.log*
+
+# Pipeline results
+results/
+
+# macOS
+.DS_Store
+._*
+
+# IDE and temporary files
+.idea/
+*.swp
+*.swo
